@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<manifest xmlns="http://tizen.org/ns/packages" api-version="4.0" package="org.example.service" version="1.0.0">
+    <profile name="wearable"/>
+    <service-application appid="org.example.service" exec="service" multiple="false" nodisplay="true" taskmanage="false" type="capp">
+        <label>service</label>
+        <icon>service.png</icon>
+    </service-application>
+    <privileges>
+        <privilege>http://tizen.org/privilege/network.get</privilege>
+        <privilege>http://tizen.org/privilege/healthinfo</privilege>
+        <privilege>http://tizen.org/privilege/internet</privilege>
+    </privileges>
+</manifest>

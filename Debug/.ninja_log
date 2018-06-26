@@ -1,0 +1,25 @@
+# ninja log v5
+1	3006	0	src/service.o	98924b8913c3dd58
+3034	10463	0	service	e0541d9d337b8cc4
+1	342	0	src/service.o	4d20c93853f7b1b6
+342	6570	0	service	d7da33f85506cff0
+1	480	0	src/service.o	98924b8913c3dd58
+480	881	0	service	e0541d9d337b8cc4
+1	364	0	src/service.o	4d20c93853f7b1b6
+364	697	0	service	d7da33f85506cff0
+1	388	0	src/service.o	4d20c93853f7b1b6
+388	845	0	service	d7da33f85506cff0
+2	965	0	src/service.o	4d20c93853f7b1b6
+965	1830	0	service	d7da33f85506cff0
+1	325	0	src/service.o	4d20c93853f7b1b6
+326	623	0	service	d7da33f85506cff0
+1	354	0	src/service.o	4d20c93853f7b1b6
+354	708	0	service	d7da33f85506cff0
+2	329	0	src/service.o	4d20c93853f7b1b6
+330	646	0	service	d7da33f85506cff0
+2	341	0	src/service.o	4d20c93853f7b1b6
+341	710	0	service	d7da33f85506cff0
+2	342	0	src/service.o	4d20c93853f7b1b6
+342	652	0	service	d7da33f85506cff0
+1	333	0	src/service.o	4d20c93853f7b1b6
+334	640	0	service	d7da33f85506cff0
